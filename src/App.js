@@ -11,7 +11,7 @@ function App() {
     <IntroText/>
     <IntroCard/>
     
-    <h1>app.js임</h1>
+    <h1>app.js임!</h1>
     <ImageUpload/>
 
     <Footer/>
