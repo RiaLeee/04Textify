@@ -1,0 +1,94 @@
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 20px;
+}
+
+.hiddenInput {
+    display: none;
+}
+
+.uploadImage {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+.resultContainer {
+    display: flex;
+    align-items: stretch;
+    margin-bottom: 20px;
+    background-color: rgb(252, 239, 227);
+    border-radius: 15px;
+}
+
+.imageContainer {
+    flex: 1; 
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding: 10px; 
+}
+
+.separator {
+    border: 0.5px dashed rgb(145, 126, 106);
+    margin: 0 10px
+}
+
+.textContainer {
+    flex: 2;
+}
+
+.text {
+    margin-top: 20px;
+    width: 79%;
+    height: 150px;
+    border: rgb(252, 239, 227);
+    margin-bottom: 20px;
+    background-color: rgb(252, 239, 227);
+}
+
+.span {
+    color: rgb(149, 149, 149);
+    background-color: rgb(252, 239, 227);
+    border: rgb(252, 239, 227);
+    margin-bottom: 20px;
+}
+
+.uploadContainer {
+    border: 1px dashed grey;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    display: block;
+    text-align: center;
+    width: 25%;
+}
+
+.firstP {
+    margin: 4px 0 6px 0;
+    font-size: 12px;
+    color: #8d0529;
+}
+
+.fileName {
+    text-align: center; 
+    margin-top: 8px; 
+    display: block;
+    font-size: 15px;
+}
+
+.copyButton {
+    background-color: #8d0529; 
+    color: white;
+    border: none;
+    padding: 5px 10px; 
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 5px; 
+    transition: background-color 0.3s;
+}
+
+.copyButton:hover {
+    background-color: #a00000;
+}
