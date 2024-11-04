@@ -2,7 +2,7 @@ import { Box, Button } from '@mui/material';
 import CloudUploadIcon from '@mui/icons-material/CloudUpload';
 import ContentCopy from '@mui/icons-material/ContentCopy';
 import InsertPhoto from '@mui/icons-material/InsertPhoto';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import Tesseract from 'tesseract.js';
 import style from '../style/ImageUpload.module.css';
 import { Loading } from './Loading';

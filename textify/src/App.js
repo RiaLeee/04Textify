@@ -1,4 +1,3 @@
-import './App.css';
 import { ImageUpload } from './components/ImageUpload';
 import { IntroText } from './components/IntroText';
 import { Footer } from './layout/Footer';
