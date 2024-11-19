@@ -5,3 +5,4 @@ npm install @mui/material @emotion/react @emotion/styled @mui/icons-material --l
 ※코드 전체정리 단축키: Shift + Alt + F
 
 ※ http://13.124.246.231/
+ (유료로 인한 현재 서버 중지해놓은 상태)
