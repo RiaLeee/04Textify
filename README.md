@@ -1,6 +1,6 @@
 ## 🎯 기술 스택
 FrontEnd : React
-BackEnd : Python
+BackEnd : Python(FastAPI, OCR)
 
 ## 의존성 설치 (React)
 npm install axios --legacy-peer-deps
