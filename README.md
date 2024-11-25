@@ -1,4 +1,4 @@
-## 기술 스택
+## 🎯 기술 스택
 FrontEnd : React
 BackEnd : Python
 
@@ -10,5 +10,5 @@ npm install @mui/material @emotion/react @emotion/styled @mui/icons-material --l
 ※코드 전체정리 단축키: Shift + Alt + F
 
 ## 서버 상태
- -서버 URL: http://13.124.246.231/
- -현재 서버는 유료 서비스로 인해 중지된 상태입니다.
+서버 URL: http://13.124.246.231/
+현재 서버는 유료 서비스로 인해 중지된 상태입니다.
