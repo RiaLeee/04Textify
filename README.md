@@ -1,6 +1,7 @@
 ## 🎯 기술 스택
 - 프론트엔드: **React**
 - 백엔드: **Python (FastAPI, OCR)**
+- 인프라: **AWS (EC2)**
 
 ## 의존성 설치 (React)
 npm install axios --legacy-peer-deps\
